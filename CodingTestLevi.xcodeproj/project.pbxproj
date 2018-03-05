@@ -151,7 +151,7 @@
 			attributes = {
 				LastSwiftUpdateCheck = 0920;
 				LastUpgradeCheck = 0920;
-				ORGANIZATIONNAME = "MCS Devices";
+				ORGANIZATIONNAME = "Deron Calbert";
 				TargetAttributes = {
 					BB287BD92005662F004B9219 = {
 						CreatedOnToolsVersion = 9.2;
@@ -369,7 +369,7 @@
 				DEVELOPMENT_TEAM = MQGFV89F88;
 				INFOPLIST_FILE = CodingTestLevi/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = MCS.CodingTestLevi;
+				PRODUCT_BUNDLE_IDENTIFIER = Deron.CodingTestLevi;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -384,7 +384,7 @@
 				DEVELOPMENT_TEAM = MQGFV89F88;
 				INFOPLIST_FILE = CodingTestLevi/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = MCS.CodingTestLevi;
+				PRODUCT_BUNDLE_IDENTIFIER = Deron.CodingTestLevi;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
