@@ -1,0 +1,4 @@
+
+$(document).ready(function() {function callNativeApp () {try {webkit.messageHandlers.callbackHandler.postMessage("Alert");} catch(err) {console.log('The native context does not exist yet');}}$("#addToCartForm").submit(function() {callNativeApp();});});
+
+"document.getElementById(\"addToCartForm\").addEventListener(\"submit\", function() { \n window.webkit.messageHandlers.callBackHandler.postMessage(\"hi\");});"

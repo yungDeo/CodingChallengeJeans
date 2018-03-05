@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  CodingTestLevi
 //
-//  Created by MCS Devices on 1/9/18.
-//  Copyright © 2018 MCS Devices. All rights reserved.
+//  Created by Deron Calbert on 1/9/18.
+//  Copyright © 2018 Deron Calbert. All rights reserved.
 //
 
 import UIKit

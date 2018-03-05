@@ -14,6 +14,8 @@
 		BB287BE82005662F004B9219 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BB287BE72005662F004B9219 /* Assets.xcassets */; };
 		BB287BEB2005662F004B9219 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BB287BE92005662F004B9219 /* LaunchScreen.storyboard */; };
 		BB287BF62005662F004B9219 /* CodingTestLeviTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB287BF52005662F004B9219 /* CodingTestLeviTests.swift */; };
+		BB287C012006F686004B9219 /* js in Resources */ = {isa = PBXBuildFile; fileRef = BB287C002006F686004B9219 /* js */; };
+		BB75D56320094FF500ABF6A2 /* productModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB75D56220094FF500ABF6A2 /* productModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +40,8 @@
 		BB287BF12005662F004B9219 /* CodingTestLeviTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CodingTestLeviTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		BB287BF52005662F004B9219 /* CodingTestLeviTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CodingTestLeviTests.swift; sourceTree = "<group>"; };
 		BB287BF72005662F004B9219 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BB287C002006F686004B9219 /* js */ = {isa = PBXFileReference; lastKnownFileType = text; path = js; sourceTree = "<group>"; };
+		BB75D56220094FF500ABF6A2 /* productModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = productModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +85,8 @@
 			children = (
 				BB287BDD2005662F004B9219 /* AppDelegate.swift */,
 				BB287BDF2005662F004B9219 /* ViewController.swift */,
+				BB287C002006F686004B9219 /* js */,
+				BB75D56220094FF500ABF6A2 /* productModel.swift */,
 				BB287BE12005662F004B9219 /* Main.storyboard */,
 				BB287BE72005662F004B9219 /* Assets.xcassets */,
 				BB287BE92005662F004B9219 /* LaunchScreen.storyboard */,
@@ -183,6 +189,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BB287BEB2005662F004B9219 /* LaunchScreen.storyboard in Resources */,
+				BB287C012006F686004B9219 /* js in Resources */,
 				BB287BE82005662F004B9219 /* Assets.xcassets in Resources */,
 				BB287BE32005662F004B9219 /* Main.storyboard in Resources */,
 			);
@@ -203,6 +210,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BB287BE02005662F004B9219 /* ViewController.swift in Sources */,
+				BB75D56320094FF500ABF6A2 /* productModel.swift in Sources */,
 				BB287BE62005662F004B9219 /* CodingTestLevi.xcdatamodeld in Sources */,
 				BB287BDE2005662F004B9219 /* AppDelegate.swift in Sources */,
 			);
